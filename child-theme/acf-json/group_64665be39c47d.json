@@ -49,7 +49,7 @@
                     "acfe_google_map_type": "roadmap",
                     "acfe_google_map_disable_ui": 1,
                     "acfe_google_map_style": "",
-                    "acfe_google_map_key": "AIzaSyBKh7nadldo40hwf95hLg89SkOdbcaK8PU",
+                    "acfe_google_map_key": "",
                     "zoom": "12",
                     "acfe_google_map_marker_height": 50,
                     "acfe_google_map_disable_zoom_control": false,
