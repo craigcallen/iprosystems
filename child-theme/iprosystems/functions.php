@@ -29,4 +29,4 @@ include( get_stylesheet_directory() . '/includes/redirect-weekly-ads.php' );
 include( get_stylesheet_directory() . '/includes/remove-modify-excerpt.php' );
 include( get_stylesheet_directory() . '/includes/remove-yoast-filters.php' );
 include( get_stylesheet_directory() . '/includes/site-title-shortcode.php' );
-include( get_stylesheet_directory() . '/includes/user-last-login.php' );
+//include( get_stylesheet_directory() . '/includes/user-last-login.php' );
